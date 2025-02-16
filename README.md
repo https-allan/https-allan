@@ -2,8 +2,7 @@
  
 ![image](https://staticg.sportskeeda.com/editor/2024/01/6f0fd-17065177859699-1920.jpg)
 
-
-> "Um soldado atira, um hacker dá *enter* — a guerra silenciosa do século digital."
+# Um soldado atira, um hacker dá *enter* — a guerra silenciosa do século digital.
 
 - 🕵️‍♂️ CTF player
 - 🛡️ Apaixonado por Seguran&ccedil;a da Informa&ccedil;&atilde;o e Hacking
