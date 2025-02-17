@@ -11,7 +11,8 @@
 <div>
 
 <img src="https://i.pinimg.com/originals/0f/38/df/0f38df98067cb0b6535e09474839c4e7.gif" align="right"/>
-<a href="https://instagram.com/code.allan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+<a href="https://youtube.com/@mafiaboy0authx?si=1EJ0v2UzTqFxhBVl" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+</a>
 
 ## Estat&iacute;sticas para nerds
 ![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https-allan&show_icons=true&theme=radical)
